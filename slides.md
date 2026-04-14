@@ -3,7 +3,7 @@ title: Vite × TypeScript To‑Do アプリ入門
 transition: slide-left
 slidev: true
 layout: cover
-background: ./assets/title.png
+background: /images/title.png
 fonts:
   sans: M PLUS Rounded 1c
 monaco: true
