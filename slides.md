@@ -23,7 +23,7 @@ addons:
 
 <QRCode
   type="svg"
-  data="https://r4ai.github.io/hello-web/slides/"
+  data="https://r4ai.github.io/hello-web-2025/slides/"
   :width="140"
   :height="140"
   style="background: white; padding: 8px; width: fit-content; border-radius: 8px; position: absolute; top: 20px; right: 20px;"
@@ -31,7 +31,7 @@ addons:
 
 ---
 layout: iframe-right
-url: https://r4ai.github.io/hello-web/app/
+url: https://r4ai.github.io/hello-web-2025/app/
 ---
 
 ## 完成デモ
@@ -41,13 +41,13 @@ url: https://r4ai.github.io/hello-web/app/
 
 <QRCode
   type="svg"
-  data="https://r4ai.github.io/hello-web/app/"
+  data="https://r4ai.github.io/hello-web-2025/app/"
   :width="100"
   :height="100"
   style="background: white; padding: 8px; width: fit-content; border-radius: 8px;"
 />
 
-https://r4ai.github.io/hello-web/app/
+https://r4ai.github.io/hello-web-2025/app/
 
 ---
 layout: center

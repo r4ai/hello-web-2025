@@ -1,7 +1,7 @@
 import { $ } from "bun";
 import * as fs from "node:fs/promises";
 
-const REPO_NAME = "hello-web";
+const REPO_NAME = "hello-web-2025";
 
 // ensure `dist` directory exists
 await fs.rm("dist", { recursive: true, force: true });
